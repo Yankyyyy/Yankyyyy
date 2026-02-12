@@ -24,11 +24,4 @@ Software Developer
 
 ---
 
-## 📊 GitHub Stats
-
-![Yankyyyy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yankyyyy&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yankyyyy&layout=compact&theme=radical)
-
----
-
 *Let's connect and build something awesome!*
